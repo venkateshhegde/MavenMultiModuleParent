@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SubProject1" />
         <module name="SubProject2" />
+        <module name="UberJarModule" />
       </profile>
     </annotationProcessing>
   </component>
