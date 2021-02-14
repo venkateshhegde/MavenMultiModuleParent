@@ -65,7 +65,7 @@
                     <sourceFiles>
                         <directory>${basedir}</directory>
                         <includes>
-                            <include>src/main/site/*.txt</include>
+                            <include>src/plantuml/**/*.txt</include>
                         </includes>
                     </sourceFiles>
                 </configuration>
